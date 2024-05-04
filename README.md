@@ -93,5 +93,5 @@ endmodule
 ~~~
 
 ### Output
-![Screenshot 2024-05-04 165843](https://github.com/Shaiksushma123/ALU/assets/159005642/bae9f174-dcaa-45d6-b982-f4413dc25067)
+![Screenshot 2024-05-04 170013](https://github.com/Shaiksushma123/ALU/assets/159005642/8be3c5c8-7c29-4d59-8e9e-f7455da91ebe)
 
